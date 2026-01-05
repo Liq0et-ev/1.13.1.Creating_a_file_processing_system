@@ -1,5 +1,5 @@
 # 1.13.1.Creating_a_file_processing_system
-# Ceļazīmju datubāze (db.csv) — Konsoles lietotne (README)
+# Ceļazīmju datubāze (db.csv), Konsoles lietotne (README)
 
 Programma ir konsoles lietotne, kas strādā ar failu `db.csv` tekošajā mapē un nodrošina ceļazīmju datu pārvaldību ar izvēlni un lietotāja ievadi. <br>
 Tā ļauj: apskatīt faila saturu (izvadot datus tabulas veidā), ierakstīt failā informāciju par jaunu ceļazīmi, izslēgt no faila izvēlēto informāciju un koriģēt (rediģēt) esošas ceļazīmes datus. <br>
